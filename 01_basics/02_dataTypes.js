@@ -19,7 +19,7 @@ symbol ------- to find uniqueness mostly used in react
 */
 
 /*
-non-primitive data types:-
+non-primitive data types:- 
 
 typeof -------> it displays the type of data type a variable is
 
