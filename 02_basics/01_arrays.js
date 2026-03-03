@@ -28,7 +28,14 @@ const myn1 = myArr.slice(1,3)
 
 console.log(myn1);
 console.log("B",myArr)                               /*
-                                                        slice() and splice() are both array methods in JavaScript, but they work differently. The slice(start, end) method is used to extract a portion of an array and returns a new array without modifying the original array. The starting index is included, while the ending index is not included. On the other hand, splice(start, deleteCount) is used to add or remove elements from an array and it modifies the original array. It returns the removed elements as a new array. In short, slice() does not change the original array, whereas splice() changes the original array.
+                                                        slice() and splice() are both array methods in JavaScript, 
+                                                        but they work differently. The slice(start, end) method is 
+                                                        used to extract a portion of an array and returns a new array 
+                                                        without modifying the original array. The starting index is included, 
+                                                        while the ending index is not included. On the other hand, splice(start, deleteCount) 
+                                                        is used to add or remove elements from an array and it modifies the original array. 
+                                                        It returns the removed elements as a new array. In short, slice() does not 
+                                                        change the original array, whereas splice() changes the original array.
                                                     */
 
 const myn2 = myArr.splice(1,3)
