@@ -45,4 +45,4 @@ console.log("L")
   }
 
   console.log(loggedInfo("Swapnil"))
-  console.log(loggedInfo("Swapnil joshi"))        // i can give multiple arguments  to one parameter function
+  console.log(loggedInfo("Swapnil joshi"))        // you can give multiple arguments  to one parameter function
